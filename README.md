@@ -1,1 +1,2 @@
-First major task on shell navigation
+Task 0. Where am I?
+
